@@ -9,7 +9,7 @@ const e = require("express");
 const STRIPE_KEY = process.env.STRIPE_SECRET;
 const stripe = require("stripe")(STRIPE_KEY);
 
-const PORT = process.env.PORT || 3001;
+
 const app = express();
 const server = new ApolloServer({
   typeDefs,
@@ -56,6 +56,7 @@ const startApolloServer = async (typeDefs, resolvers) => {
   await server.start();
   server.applyMiddleware({ app });
 
+  const PORT = process.env.PORT || 3001;
   db.once("open", () => {
     app.listen(PORT, () => {
       console.log(`API server running on port ${PORT}!`);
