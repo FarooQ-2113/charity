@@ -1,5 +1,4 @@
 # veriti&trade; 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 
 Veriti™ is a MERN stack application that allows user to login securely with JWTAuth, explore charities from our curated MongoDB database and add/remove them from their own portfolio. Each portfolio has a user summary and option to download tax forms 1040sa and f8283 for easier filing as well as a Veriti Donation Summary downloadable file in xlsx format. This application was built with Apollo server and uses Express routing. 
