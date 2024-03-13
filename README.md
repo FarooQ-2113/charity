@@ -74,11 +74,6 @@ https://user-images.githubusercontent.com/107900180/208547170-24e93f2d-f24c-446e
         C. This donation informaion will be added to your Portfolio page as well as your downloadable spreadsheet!
 
 
-## License 
-This project is licensed under the MIT license.
-
-A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.<p />For more information visit [MIT Licensing](https://choosealicense.com/licenses/mit/).
-
 
 ## Technologies
 * MongoDB
@@ -106,7 +101,7 @@ We would like to continue to add the following functionality to our application:
 
 
 ## Contributing
-We'd love for you to contribute! In order to do so, visit [Veriti&trade;](https://github.com/veriti-app/veriti) and fork the repository. We currently require two (2) approvals by our QA team in order to merge to ```main```. <br/><br/> Take a look at our [Future Development](#future-development) section to see what we are looking to expand on (implemented features are denoted with a &check;).
+We'd love for you to contribute! In order to do so, visit [Veriti&trade;](https://github.com/FarooQ-2113/charity) and fork the repository. We currently require two (2) approvals by our QA team in order to merge to ```main```. <br/><br/> Take a look at our [Future Development](#future-development) section to see what we are looking to expand on (implemented features are denoted with a &check;).
 
 
 ## Tests
@@ -121,7 +116,7 @@ Find us on Github via the individual links below:
 * [Insha Sayani](https://github.com/isayani)
 
 Or visit our app's repository on GitHub:
-[Veriti&trade;](https://github.com/veriti-app/veriti)
+[Veriti&trade;](https://github.com/FarooQ-2113/charity)
 
 ---
 © 2022 veriti&trade; (Olivia Conley, Indigo Fobes, Annie Nguyen, Vaishali Patel, Insha Sayani), Confidential and Proprietary. All Rights Reserved.
