@@ -1,19 +1,17 @@
-# veriti&trade; 
+
 ## Description
 
-Veriti™ is a MERN stack application that allows user to login securely with JWTAuth, explore charities from our curated MongoDB database and add/remove them from their own portfolio. Each portfolio has a user summary and option to download tax forms 1040sa and f8283 for easier filing as well as a Veriti Donation Summary downloadable file in xlsx format. This application was built with Apollo server and uses Express routing. 
+Charity is a MERN stack application that allows user to login securely with JWTAuth, explore charities from our curated MongoDB database and add/remove them from their own portfolio. Each portfolio has a user summary and option to download tax forms 1040sa and f8283 for easier filing as well as a Veriti Donation Summary downloadable file in xlsx format. This application was built with Apollo server and uses Express routing. 
 
 ## Table of Contents
 1. [Description](#description)
 2. [Table of Contents](#table-of-contents)
 3. [Usage](#usage)
 4. [Installation](#installation)
-5. [License](#license)
-6. [Technologies](#technologies)
-7. [Future Development](#future-development)
-8. [Contributing](#contributing)
-9. [Tests](#tests)
-10. [Questions](#questions)
+5. [Technologies](#technologies)
+6. [Future Development](#future-development)
+7. [Tests](#tests)
+8. [Questions](#questions)
 
 ## Usage
 ### User Story
@@ -34,7 +32,6 @@ _*this is for development purposes only_
 4. Make sure to import your own Stripe and MongoDB keys
 4. Run the front and back-end servers with ```npm run develop```
 
-To use this app in production, visit: https://veriti-app.herokuapp.com/
 
 <br/>
 
@@ -98,25 +95,9 @@ We would like to continue to add the following functionality to our application:
 * Forgot password functionality
 * Category questionnaire for user 
 
-
-## Contributing
-We'd love for you to contribute! In order to do so, visit [Veriti&trade;](https://github.com/FarooQ-2113/charity) and fork the repository. We currently require two (2) approvals by our QA team in order to merge to ```main```. <br/><br/> Take a look at our [Future Development](#future-development) section to see what we are looking to expand on (implemented features are denoted with a &check;).
-
-
 ## Tests
 None
 
-## Questions
-Find us on Github via the individual links below:
-* [Olivia Conley](https://github.com/oliviaconley)<br>
-* [Indigo Fobes](https://github.com/IndigoFobes)<br>
-* [Annie Nguyen](https://github.com/mnghinguyen)<br>
-* [Vaishali Patel](https://github.com/VaishaliQA)<br>
-* [Insha Sayani](https://github.com/isayani)
-
 Or visit our app's repository on GitHub:
-[Veriti&trade;](https://github.com/FarooQ-2113/charity)
+[charity;](https://github.com/FarooQ-2113/charity)
 
----
-© 2022 veriti&trade; (Olivia Conley, Indigo Fobes, Annie Nguyen, Vaishali Patel, Insha Sayani), Confidential and Proprietary. All Rights Reserved.
-"# charity" 
